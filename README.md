@@ -1,2 +1,0 @@
-# kleemetsProjekt
-Projekt Java jaoks
